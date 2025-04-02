@@ -2,6 +2,9 @@
 
 This repository lists the top 10 YouTube channels that provide valuable resources for learning AI Agents from scratch. Whether you're a beginner or an experienced developer, these channels will help you understand and build AI systems with hands-on tutorials, interviews, and in-depth discussions.
 
+![AI Agents Image](https://media.licdn.com/dms/image/v2/D4D22AQGZwV5-mUU0Cw/feedshare-shrink_2048_1536/B4DZXttb9hHIAo-/0/1743449866765?e=1746662400&v=beta&t=XPa7AxgLaIJC9ddJididHSGFK9EkcEQmVA1KiZ5fnks)
+
+
 ## Channels Overview:
 
 1. **[Andrej Karpathy](https://lnkd.in/dVA5bGyZ)**
